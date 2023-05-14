@@ -5,9 +5,9 @@
 <hr>
 
 - Open cmd or git bash or any other command line tools in any desired location you want to create the Laravel project.
-- Type composer create-project laravel/laravel your-project-name command and hit enter. This command will start installing the latest laravel version project on your computer.
-- After installing go to the project directory by typing the command cd your-project-name
-- Now run php artisan serve command. This artisan command will run the server on localhost:8000 port and provide and URL link of [**http://127.0.0.1:8000**](http://127.0.0.1:8000)
+- Type <mark>composer create-project laravel/laravel your-project-name</mark> command and hit enter. This command will start installing the latest laravel version project on your computer.
+- After installing go to the project directory by typing the command <mark>cd your-project-name</mark>
+- Now run <mark>php artisan serve</mark> command. This artisan command will run the server on localhost:8000 port and provide and URL link of [**http://127.0.0.1:8000**](http://127.0.0.1:8000)
 - And now you can copy the link open any browser and paste the url or type localhost:8000 on the browser address bar or simply press ctrl & click the url from the command line / git bash that will automatically open the project homepage on your default browser.
 
 <br>
